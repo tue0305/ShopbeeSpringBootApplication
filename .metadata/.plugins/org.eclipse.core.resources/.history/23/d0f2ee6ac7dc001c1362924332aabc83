@@ -1,0 +1,5 @@
+package com.shopbee.commom.entity;
+
+public class Role {
+
+}

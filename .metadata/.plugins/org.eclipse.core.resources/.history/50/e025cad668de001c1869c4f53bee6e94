@@ -1,0 +1,15 @@
+server.port=8080
+server.servlet.context-path=/ShopbeeAdmin
+
+# SPRING DATA SOURCE PROPERTIES
+spring.datasource.url=jdbc:mysql://localhost:3306/shopbeedb
+spring.datasource.username=root
+spring.datasource.password=8774165
+
+# JPA / HIBERNATE PROPERTIES
+
+spring.jpa.database-platform = org.hibernate.dialect.MySQL8Dialect
+spring.jpa.generate-ddl=true
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format-sql=true

@@ -1,0 +1,5 @@
+package com.shopbee.admin.user;
+
+public class UserService {
+
+}

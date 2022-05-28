@@ -1,0 +1,13 @@
+package com.shopbee;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ShopbeeBackEndApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ShopbeeBackEndApplication.class, args);
+	}
+
+}
